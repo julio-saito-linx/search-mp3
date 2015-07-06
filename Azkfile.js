@@ -1,5 +1,5 @@
 systems({
-  ppp: {
+  'search-mp3': {
     // Dependent systems
     depends: [],
 

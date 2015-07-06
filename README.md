@@ -1,5 +1,5 @@
-# react-webpack-boilerplate
-[![Build Status](http://img.shields.io/travis/saitodisse/react-webpack-boilerplate.svg?style=flat-square)](https://travis-ci.org/saitodisse/react-webpack-boilerplate) [![Build Status](http://img.shields.io/coveralls/saitodisse/react-webpack-boilerplate.svg?style=flat-square)](https://coveralls.io/r/saitodisse/react-webpack-boilerplate)
+# search-mp3
+[![Build Status](http://img.shields.io/travis/saitodisse/search-mp3.svg?style=flat-square)](https://travis-ci.org/saitodisse/search-mp3) [![Build Status](http://img.shields.io/coveralls/saitodisse/search-mp3.svg?style=flat-square)](https://coveralls.io/r/saitodisse/search-mp3)
 
 > Simple production-ready boilerplate for [React](http://facebook.github.io/react/) and [Webpack](http://webpack.github.io/) (SASS and React hot reloading)
 
@@ -33,7 +33,7 @@ $ npm install
 
 Alternatively, you can deploy your own copy with one click using this button:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/srn/react-webpack-boilerplate)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/srn/search-mp3)
 
 ## iojs
 
@@ -48,7 +48,7 @@ It's currently in a separate branch, [facebook/jest/tree/0.5.x](https://github.c
 $ npm start
 ```
 
-Go to [http://ppp.azk.dev.io](http://ppp.azk.dev.io) and see the magic happen.
+Go to [http://search-mp3.azk.dev.io](http://search-mp3.azk.dev.io) and see the magic happen.
 
 ## Production
 

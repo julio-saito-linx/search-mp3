@@ -1,5 +1,5 @@
 {
-  "name": "react-webpack-boilerplate",
+  "name": "search-mp3",
   "version": "2.0.0",
   "description": "Simple production ready boilerplate for React, Webpack (SASS and React hot reloading), tests and coverage.",
   "main": "index.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/saitodisse/react-webpack-boilerplate"
+    "url": "https://github.com/saitodisse/search-mp3"
   },
   "engines": {
     "node": "0.10",
@@ -30,9 +30,9 @@
   "author": "Søren Brokær <root@srn.io> (http://srn.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/saitodisse/react-webpack-boilerplate/issues"
+    "url": "https://github.com/saitodisse/search-mp3/issues"
   },
-  "homepage": "https://github.com/saitodisse/react-webpack-boilerplate",
+  "homepage": "https://github.com/saitodisse/search-mp3",
   "dependencies": {
     "compression": "1.5.0",
     "ejs": "2.3.2",
